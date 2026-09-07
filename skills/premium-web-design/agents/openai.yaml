@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium Web Design"
+  short_description: "Build refined, brand-led responsive web interfaces."
+  default_prompt: "Use $premium-web-design to create a polished, responsive brand website."
