@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Profile Design"
+  short_description: "Design restrained GitHub READMEs, stats cards, and badges."
+  default_prompt: "Use $github-profile-design to improve this GitHub profile README."
