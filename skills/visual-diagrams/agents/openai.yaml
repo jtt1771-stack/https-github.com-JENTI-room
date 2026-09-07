@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Diagrams"
+  short_description: "Create clear Mermaid and hand-drawn web diagrams."
+  default_prompt: "Use $visual-diagrams to turn this process into a clear visual diagram."
